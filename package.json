@@ -13,7 +13,7 @@
     "gulp-util": "^3.0.8",
     "gulp-uglify": "^3.0.0",
     "haml": "^0.4.3",
-    "node-sass": "^4.14.1"
+    "node-sass": "^7.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
